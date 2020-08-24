@@ -32,24 +32,26 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />
+<img align="left" alt="YAML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://avatars3.githubusercontent.com/u/1507452?s=400&v=4" />
+<img align="left" alt="Ansible" width="26px" src="https://avatars3.githubusercontent.com/u/1507452?s=400&v=4" />
 
-<img align="left" alt="Terminal" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/11/1500px_Jenkins_logo.png" />
+<img align="left" alt="Terminal" width="26px" src="https://lh3.googleusercontent.com/proxy/YHETcthB-37qmvPOteFiJrKtrjZLztLlD2OAEwtyJK3FvONliOPsyGIKvlrvqbqZ-uw1VyXxkjx3IvoxdFlJSRo0yTfkzhhr2V9oWTSA7cpPggjDcPI" />
 
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" />
+<img align="left" alt="Groovy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" />
 
-<img align="left" alt="Terminal"  width="26px" src="https://pbs.twimg.com/profile_images/1204869696132190212/HxPK_45O_400x400.jpg" />
+<img align="left" alt="Terraform"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+
+<img align="left" alt="Grafana"  width="26px" src="https://pbs.twimg.com/profile_images/1204869696132190212/HxPK_45O_400x400.jpg" />
 
 
-<img align="left" alt="Terminal" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyMYMy1fWyQltEGwSwe4SJCCvwLu-6BruSSw&usqp=CAU" />
+
 
 
 <br>
