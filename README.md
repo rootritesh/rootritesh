@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" />
 
-<img align="left" alt="Terminal"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" />
+<img align="left" alt="Terminal"  width="26px" src="https://pbs.twimg.com/profile_images/1204869696132190212/HxPK_45O_400x400.jpg" />
 
 
 <img align="left" alt="Terminal" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyMYMy1fWyQltEGwSwe4SJCCvwLu-6BruSSw&usqp=CAU" />
