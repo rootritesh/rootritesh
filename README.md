@@ -1,4 +1,4 @@
-### Hi there 👋 its me rootritesh
+### Hi there 👋 I'm Ritesh Singh(rootritesh)
 
 Here are some ideas to get you started:
 
