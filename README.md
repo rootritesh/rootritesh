@@ -46,9 +46,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Groovy" width="26px" src="https://developer.fedoraproject.org/static/logo/groovy.png" />
 
-<img align="left" alt="Terraform"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-
-<img align="left" alt="Grafana"  width="26px" src="https://pbs.twimg.com/profile_images/1204869696132190212/HxPK_45O_400x400.jpg" />
 
 
 
@@ -56,6 +53,10 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+
+<a href="https://github.com/rootritesh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootritesh&show_icons=true&theme=light&line_height=27" alt="Ritesh's github stats"/>
+
 
 ### Connect with me:
 
