@@ -36,13 +36,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Terminal" width="26px" padding src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://avatars3.githubusercontent.com/u/1507452?s=400&v=4" />
 
-<img align="left" alt="Terminal" width="26px" src="https://banner2.cleanpng.com/20180515/zxe/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e222331.1197773615263645741398.jpg" />
-
-
+<img align="left" alt="Terminal" width="26px" margin="5px 5px 5px 5px " src="https://banner2.cleanpng.com/20180515/zxe/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e222331.1197773615263645741398.jpg" />
 
 ### Connect with me:
 
