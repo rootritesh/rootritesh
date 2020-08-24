@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
@@ -40,15 +42,14 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Terminal" width="26px" src="https://avatars3.githubusercontent.com/u/1507452?s=400&v=4" />
 
-<img align="left" alt="Terminal" src="https://banner2.cleanpng.com/20180515/zxe/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e222331.1197773615263645741398.jpg" />
+<img align="left" alt="Terminal" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/11/1500px_Jenkins_logo.png" />
 
-<img align="left" alt="Terminal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" />
+<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" />
 
-<img align="left" alt="Terminal"  src="https://www.clipartmax.com/png/middle/450-4503037_grafana-prometheus-grafana-logo.png" />
+<img align="left" alt="Terminal"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
-<img align="left" alt="Terminal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" />
+<img align="left" alt="Terminal" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyMYMy1fWyQltEGwSwe4SJCCvwLu-6BruSSw&usqp=CAU" />
 
 
 <br>
