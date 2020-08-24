@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Ansible" width="26px" src="https://avatars3.githubusercontent.com/u/1507452?s=400&v=4" />
 
-<img align="left" alt="Terminal" width="26px" src="https://lh3.googleusercontent.com/proxy/YHETcthB-37qmvPOteFiJrKtrjZLztLlD2OAEwtyJK3FvONliOPsyGIKvlrvqbqZ-uw1VyXxkjx3IvoxdFlJSRo0yTfkzhhr2V9oWTSA7cpPggjDcPI" />
+<img align="left" alt="Jenkins" width="26px" src="https://lh3.googleusercontent.com/proxy/YHETcthB-37qmvPOteFiJrKtrjZLztLlD2OAEwtyJK3FvONliOPsyGIKvlrvqbqZ-uw1VyXxkjx3IvoxdFlJSRo0yTfkzhhr2V9oWTSA7cpPggjDcPI" />
 
-<img align="left" alt="Groovy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" />
+<img align="left" alt="Groovy" width="26px" src="https://developer.fedoraproject.org/static/logo/groovy.png" />
 
 <img align="left" alt="Terraform"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 
