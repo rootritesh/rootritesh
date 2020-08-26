@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Ansible" width="26px" src="https://avatars3.githubusercontent.com/u/1507452?s=400&v=4" />
 
-<img align="left" alt="Jenkins" width="26px" src="https://lh3.googleusercontent.com/proxy/YHETcthB-37qmvPOteFiJrKtrjZLztLlD2OAEwtyJK3FvONliOPsyGIKvlrvqbqZ-uw1VyXxkjx3IvoxdFlJSRo0yTfkzhhr2V9oWTSA7cpPggjDcPI" />
+<!-- <img align="left" alt="Jenkins" width="26px" src="https://lh3.googleusercontent.com/proxy/YHETcthB-37qmvPOteFiJrKtrjZLztLlD2OAEwtyJK3FvONliOPsyGIKvlrvqbqZ-uw1VyXxkjx3IvoxdFlJSRo0yTfkzhhr2V9oWTSA7cpPggjDcPI" /> -->
 
 
 
