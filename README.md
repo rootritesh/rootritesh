@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="https://github.com/rootritesh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootritesh&"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootritesh&layout=compact"/>
 </a>  
 
 
