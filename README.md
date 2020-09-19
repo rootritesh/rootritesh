@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/ritesh64/)
 - 💬 Ask me about DevOps related stuff
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am spending more time to improving my skills
+- ⚡ Fun fact: I am spending more time to improving my skills.
 
 ### Language and Tools
 
