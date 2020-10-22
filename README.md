@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Ansbile,Flutter,python
+- 🌱 I’m currently learning AI,ML,BigData,Python
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/ritesh64/)
 - 💬 Ask me about DevOps related stuff
 - 😄 Pronouns: He/His
