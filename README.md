@@ -74,3 +74,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/rootritesh/">
   <img align="left" alt="Ritesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://twitter.com/RiteshS07054000">
+  <img align="left" alt="Ritesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
