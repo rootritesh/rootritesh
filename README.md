@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
-<img align="left" alt="terraform" width="26px" src="https://i1.wp.com/www.nebulaworks.com/blog/wp-content/uploads/2018/01/hashicorp-terraform.png?w=900" />
+<!-- <img align="left" alt="terraform" width="26px" src="https://i1.wp.com/www.nebulaworks.com/blog/wp-content/uploads/2018/01/hashicorp-terraform.png?w=900" /> -->
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
