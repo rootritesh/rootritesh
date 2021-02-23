@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am spending more time to improving my skills.
 
 ## Tech Stack
-![Preview](https://github.com/rootritesh/rootritesh/blob/master/image/techstack1.png)
+![Preview](https://github.com/rootritesh/rootritesh/blob/master/image/techstack2.png)
 
 
 
