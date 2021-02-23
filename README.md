@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am spending more time to improving my skills.
 
-### Tech Stack
+## Tech Stack
 ![Preview](https://github.com/rootritesh/rootritesh/blob/master/image/techstack.png)
 
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-### Connect with me:
+## Connect with me:
 
 <a href="https://www.linkedin.com/in/ritesh64/">
  <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
