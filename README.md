@@ -3,11 +3,11 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning AI,ML,BigData,Python
-- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/ritesh64/)
-- 💬 Ask me about DevOps related stuff
-- 😄 Pronouns: He/His
+- 🤓 I love to learn new stuff.
+- 💬 Ask me about DevOps/Cloud related stuff
 - ⚡ Fun fact: I am spending more time to improving my skills.
-
+- 📢 I’m always open to suggestions and help
+- 😄 Pronouns: He/His
 ## Tech Stack
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
