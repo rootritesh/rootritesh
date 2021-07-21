@@ -43,9 +43,8 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/rootritesh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootritesh&show_icons=true&theme=light&line_height=27" alt="Ritesh's github stats"/>
-</a> 
+![Github Status]("https://github-readme-stats.vercel.app/api?username=rootritesh&show_icons=true&theme=light&line_height=27")
+
 
 <!-- <a href="https://github.com/rootritesh/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootritesh&layout=compact"/>
