@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-![Github Status]("https://github-readme-stats.vercel.app/api?username=rootritesh&show_icons=true&theme=light&line_height=27")
+![Github Status](https://github-readme-stats.vercel.app/api?username=rootritesh&show_icons=true&theme=light&line_height=27count_private=true&include_all_commits=true)
 
 
 <!-- <a href="https://github.com/rootritesh/github-readme-stats">
