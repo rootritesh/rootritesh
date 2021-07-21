@@ -46,15 +46,13 @@ Here are some ideas to get you started:
 ![Github Status](https://github-readme-stats.vercel.app/api?username=rootritesh&show_icons=true&theme=light&line_height=27count_private=true&include_all_commits=true)
 
 
-<!-- <a href="https://github.com/rootritesh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootritesh&layout=compact"/>
-</a>   -->
+
 
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/rootritesh/" target="_blank">
-      <img  "  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rootritesh/)](https://www.linkedin.com/in/rootritesh/)
+     
 
 
