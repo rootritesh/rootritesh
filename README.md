@@ -38,8 +38,10 @@ Here are some ideas to get you started:
 ![Grafana](https://img.shields.io/badge/grafana-%23F37626.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23F37626.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23F37626.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-%23F37626.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23F37626.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%23F37626.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Reactjs](https://img.shields.io/badge/react.js-%23F37626.svg?style=for-the-badge&logo=react&logoColor=white)
+
 
 
 
